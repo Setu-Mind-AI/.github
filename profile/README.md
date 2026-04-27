@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Setu-Mind-AI/.github/raw/main/images/banner.png" alt="Setu-Mind-AI Logo" width="400px">
+  <img src="https://github.com/Setu-Mind-AI/.github/raw/main/logo.svg" alt="Setu-Mind-AI Logo" width="400px">
   <p>Bridging AI Agents, Robots, 🚀... Amplifying Intelligence..</p>
 
   [![Website](https://img.shields.io/badge/Website-setumindai.space-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://setumindai.com/)
