@@ -2,10 +2,10 @@
   <img src="https://github.com/Setu-Mind-AI/.github/raw/main/logo.svg" alt="Setu-Mind-AI Logo" width="400px">
   <p>Bridging AI Agents, Robots, 🚀... Amplifying Intelligence..</p>
 
-  [![Website](https://img.shields.io/badge/Website-setumindai.space-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://setumindai.com/)
+  [![Website](https://img.shields.io/badge/Website-setumindai.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://setumindai.com/)
   [![HuggingFace](https://img.shields.io/badge/HuggingFace-setumind--ai-orange?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/setumindai)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-setumind--ai-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/setumind-ai/?viewAsMember=true)
-  [![Email](https://img.shields.io/badge/Email-info%40setumind.space-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@setumindai.com)
+  [![Email](https://img.shields.io/badge/Email-info%40setumind.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@setumindai.com)
 </div>
 
 ---
