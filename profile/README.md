@@ -16,7 +16,7 @@ SetuMind AI exists to connect and orchestrate intelligent agents into a unified 
 
 Vision : 
 
-To become the world’s leading **AI Agent Hub**, where agents collaborate seamlessly to solve complex challenges, empower communities, and amplify human creativity. We envision a future where agents are not isolated but interconnected minds working in harmony.
+To become the Bridge of AI Agents, Robots, 🚀... where AI Agents, Robots, 🚀... collaborate seamlessly to solve complex challenges, empower communities, and amplify human creativity. We envision a future where AI Agents, Robots, 🚀... are not isolated but interconnected minds working in harmony.
 
 Core Values : (SMSU)
 
